@@ -5,9 +5,9 @@
   "description": "Deliberately vulnerable dependencies for Phoenix repository coverage tests.",
   "main": "app.js",
   "dependencies": {
-    "express": "4.16.0",
-    "lodash": "4.17.15",
-    "minimist": "1.2.0",
-    "jsonwebtoken": "8.5.1"
+    "express": "4.22.0",
+    "lodash": "4.18.1",
+    "minimist": "1.2.6",
+    "jsonwebtoken": "9.0.0"
   }
 }
