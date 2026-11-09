@@ -1,0 +1,13 @@
+{
+  "name": "coverage-case-sca-only",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deliberately vulnerable dependencies for Phoenix repository coverage tests.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.16.0",
+    "lodash": "4.17.15",
+    "minimist": "1.2.0",
+    "jsonwebtoken": "8.5.1"
+  }
+}
